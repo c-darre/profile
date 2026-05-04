@@ -123,16 +123,15 @@ body {
 }
 
 .image-style-1 {
-  border-radius: 5%;
+  border-radius: 3,5px;
   max-height: 555px;
   align-content: center;
 }
 
 .image-style-2 {
-  border-radius: 10%;
-  max-height: 333px;
+  border-radius: 3,5px;
+  max-height: 147px;
   align-content: center;
-  margin: 22px;
 }
 
 @media (max-width: 768px) {
