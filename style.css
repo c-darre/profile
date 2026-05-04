@@ -46,7 +46,7 @@ body {
   line-height: 0.9;
   margin-top: 40px;
   margin-bottom: 40px;
-  transition: color 0.3s ease; 
+  transition: color 0.3s ease;
 }
 
 .gothic-title:hover {
@@ -71,7 +71,7 @@ body {
 
 .bio-text {
   max-width: 60%;
-  font-size: 1.1rem;
+  font-size: 18px; 
   line-height: 1.6;
 }
 
@@ -88,7 +88,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: var(--gothic-font);
-  font-size: 1.5rem;
+  font-size: 24px;
 }
 
 .footer {
