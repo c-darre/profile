@@ -3,6 +3,9 @@
   --text-color: #000000;
   --gothic-font: 'UnifrakturMaguntia', serif;
   --sans-font: 'Inter', sans-serif;
+  --second-font-color: #FFFFFF;
+  --transition: text-color 0.5s;
+
 }
 
 * {
@@ -69,7 +72,7 @@ body {
 }
 
 .bio-text p {
-  margin-bottom: 15px;
+  margin-bottom: 356px;
 }
 
 .badge {
@@ -146,4 +149,8 @@ body {
   .container {
     width: 300px;
   }
+}
+
+a:hover {
+  text-color: #FFFFFF;
 }
