@@ -71,12 +71,12 @@ body {
 
 .bio-text {
   max-width: 60%;
-  font-size: 18px; 
+  font-size: 18px;
   line-height: 1.6;
 }
 
 .bio-text p {
-  margin-bottom: 356px;
+  margin-bottom: 60px;
 }
 
 .badge {
@@ -101,7 +101,7 @@ body {
 .social-label {
   font-weight: bold;
   text-transform: uppercase;
-  margin-top: 155px;
+  margin-top: 60px;
 }
 
 .links {
@@ -122,10 +122,17 @@ body {
   border-bottom: 1px solid var(--second-font-color);
 }
 
-.image-style {
+.image-style-1 {
   border-radius: 5%;
-  max-height: 245px;
+  max-height: 555px;
   align-content: center;
+}
+
+.image-style-2 {
+  border-radius: 10%;
+  max-height: 333px;
+  align-content: center;
+  margin: 22px;
 }
 
 @media (max-width: 768px) {
